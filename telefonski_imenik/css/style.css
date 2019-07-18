@@ -1,0 +1,21 @@
+#okvir {
+    width: 250px;
+    margin: auto;
+}
+#pretraga{
+    background-color: yellow;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 15px 15px 0px 15px;
+}
+
+.rezultat{
+    padding: 10px;
+    background-color: gold;
+    margin-bottom: 2px;
+    border-radius: 15px 0px 0px 0px;
+}
+
+.rezultat img {
+    float: right;
+}
